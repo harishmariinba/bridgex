@@ -55,7 +55,7 @@ export default function AuthPage() {
           {isLogin ? "Welcome Back 👋" : "Create Account 🚀"}
         </h1>
 
-        <p className="text-center text-gray-600 mb-6">
+        <p className="text-center text-black-800 mb-6">
           {isLogin
             ? "Login to continue"
             : "Sign up & verify your email"}
